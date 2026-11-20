@@ -155,7 +155,9 @@ Add genuine screenshots captured from your own running app to `assets/`, then li
 
 ## GitHub presentation
 
-For a polished repository page, keep this README at the repository root, run training so that the real reports are present, add screenshots captured from the app, and replace this section with a link to your published repository when sharing it. Suggested repository topics: `nlp`, `sms-spam-detection`, `scikit-learn`, `streamlit`, and `machine-learning`.
+Repository: [ItsFaizan-official/spamshield-sms-spam-detection](https://github.com/ItsFaizan-official/spamshield-sms-spam-detection)
+
+For a polished repository page, keep this README at the repository root, run training so that the real reports are present, and add genuine screenshots captured from the app. Suggested repository topics: `nlp`, `sms-spam-detection`, `scikit-learn`, `streamlit`, and `machine-learning`.
 
 To publish to a new GitHub repository, create an empty repository on GitHub and then run the following from the project directory (replace the URL):
 
@@ -164,7 +166,7 @@ git init
 git add .
 git commit -m "Build SpamShield SMS spam detection project"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/SpamShield.git
+git remote add origin https://github.com/ItsFaizan-official/spamshield-sms-spam-detection.git
 git push -u origin main
 ```
 
