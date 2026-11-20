@@ -1,0 +1,3 @@
+,predicted_ham,predicted_spam
+actual_ham,898,6
+actual_spam,8,120
